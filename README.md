@@ -67,7 +67,7 @@
 <div class="statusitle" align=center>
     <br clear="both">
     <h3>Statistcs:</h3>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=y0nlu&label=Profile%20views&color=0e75b6&style=flat" alt="y0nlu" /> </p>
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=y0nlu&label=Profile%20views&color=0e75b6&style=flat" alt="y0nlu" /> </p>
     <br clear="both">
 </div>
 
